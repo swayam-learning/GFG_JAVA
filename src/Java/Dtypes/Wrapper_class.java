@@ -1,3 +1,5 @@
+package Java.Dtypes;
+
 public class Wrapper_class {
     public static void main(String[] args) {
         /* as we know that primitive data types can't be used as references
